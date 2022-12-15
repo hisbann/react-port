@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.4379e083.css",
+    "main.js": "/react-port/static/js/main.c9c78190.js",
+    "static/media/Saly-10.png": "/react-port/static/media/Saly-10.63d5f088f2436d85db5d.png",
+    "static/media/CryptoFluff_0075-removebg.png": "/react-port/static/media/CryptoFluff_0075-removebg.3d06eafc2f8ef44b094d.png",
+    "static/media/php-icon.svg": "/react-port/static/media/php-icon.1619ffb7002606245a66c46f7b2a0ce2.svg",
+    "static/media/Sass.svg": "/react-port/static/media/Sass.06bf8b606920c1b2393f547870c1cf08.svg",
+    "static/media/reactjsicon.svg": "/react-port/static/media/reactjsicon.6c1d44b8c59f0f72ff199a54ceed774c.svg",
+    "static/media/bootstrap.svg": "/react-port/static/media/bootstrap.c5b4d30e1cfd224676ee4e132c3ccadd.svg",
+    "index.html": "/react-port/index.html",
+    "static/media/tailwindcss.svg": "/react-port/static/media/tailwindcss.017e1e304e12384d156d384f40a4b5f8.svg",
+    "static/media/Javascript.svg": "/react-port/static/media/Javascript.67cd19b38bed6dc3f8c82f3509d412c3.svg",
+    "main.4379e083.css.map": "/react-port/static/css/main.4379e083.css.map",
+    "main.c9c78190.js.map": "/react-port/static/js/main.c9c78190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4379e083.css",
+    "static/js/main.c9c78190.js"
+  ]
+}
